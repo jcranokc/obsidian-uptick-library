@@ -1,7 +1,7 @@
-# Life OS Community Library
+# Uptick Community Library
 
 A shared index of flashcard decks and practice exams for
-[Life OS](https://github.com/jcranokc/obsidian-life-os).
+[Uptick](https://github.com/jcranokc/obsidian-uptick).
 
 **This repo hosts no content.** It is a list of pointers to decks that live in
 their authors' own repositories. You keep your work, your licence and your
@@ -10,7 +10,7 @@ removing one line here.
 
 ## Using a deck
 
-In Obsidian: **Life OS → Library**, browse, and install. Decks land in your
+In Obsidian: **Uptick → Library**, browse, and install. Decks land in your
 configured study folder as ordinary Markdown.
 
 Or just clone the author's repo and copy the files in yourself. There is nothing
@@ -18,7 +18,7 @@ proprietary about the format.
 
 ## Sharing a deck
 
-The fastest route is inside the plugin: **Life OS → Library → Share a deck**.
+The fastest route is inside the plugin: **Uptick → Library → Share a deck**.
 It walks you through it and writes the files for you.
 
 By hand, it is four steps:
