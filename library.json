@@ -1,5 +1,37 @@
 {
   "version": 1,
-  "updated": "2026-08-23",
-  "decks": []
+  "updated": "2026-08-24",
+  "decks": [
+    {
+      "id": "salesforce-platform-admin-ii",
+      "name": "Salesforce Platform Administrator II",
+      "description": "300 multiple-choice cards across the eight exam sections, weighted roughly to the blueprint, each with a worked explanation.",
+      "type": "flashcards",
+      "topic": "Salesforce",
+      "certification": "Salesforce Certified Advanced Administrator",
+      "author": "jcranokc",
+      "repo": "https://github.com/jcranokc/uptick-decks",
+      "branch": "main",
+      "files": [
+        "decks/Process Automation.md",
+        "decks/Objects and Applications.md",
+        "decks/Security and Access.md",
+        "decks/Cloud Applications.md",
+        "decks/Data and Analytics Management.md",
+        "decks/Auditing and Monitoring.md",
+        "decks/Deployment.md",
+        "decks/Environment Management.md"
+      ],
+      "cards": 300,
+      "license": "CC-BY-4.0",
+      "original": true,
+      "tags": [
+        "salesforce",
+        "admin",
+        "certification",
+        "advanced"
+      ],
+      "added": "2026-08-24"
+    }
+  ]
 }
